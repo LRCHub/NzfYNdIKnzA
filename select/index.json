@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "あたしはゆうれい",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-05T04:45:12.745477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あたしはゆうれい",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_あたしはゆうれい_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あたしはゆうれい",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_あたしはゆうれい_米津玄師.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あたしはゆうれい",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_あたしはゆうれい_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "あたしはゆうれい",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_あたしはゆうれい_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "あたしはゆうれい",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_あたしはゆうれい_米津玄師.txt"
+    }
+  ]
+}
